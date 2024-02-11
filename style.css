@@ -21,6 +21,7 @@ main {
   background: #80afe1;
   border-radius: 100%;
   box-shadow: 2px 3px 15px rgba(0, 0, 0, 0.5);
+  position: absolute;
 }
 
 .line {
